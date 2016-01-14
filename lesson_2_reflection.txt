@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When you initialize a repository, it is just an empty shell for you to 
+	start tracking files in. You need to add files for it to know what to 
+	track.
+	
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+	The staging area is an area in which we can previow the commit we are
+	about to make. It differs from the repository since nothing is set in 
+	stone yet and no commit comment was given. It differs from the working 
+	directory as some files have a temporary updated status.
