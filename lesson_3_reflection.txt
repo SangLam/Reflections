@@ -36,4 +36,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This allows others to makes sure that your changes to the code do not break 
+	their parts, and that the code is a accurate repesentation of the collaborators 
+	works with their acknowledgement and considerating of the changes proposed.
