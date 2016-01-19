@@ -28,7 +28,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would be in constant communication with my collaboraters to make sure we update one 
+	at a time onto Dropbox. We would also be manually checking for changes.
+	It would be easier to choose who can view the document, but would be harder to 
+	actually get anything done.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
